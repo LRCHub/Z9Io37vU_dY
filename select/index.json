@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "氷少女と陥落街",
   "base_artist": "HIMEHINA",
-  "createdAt": "2025-12-05T04:29:04.878644Z",
+  "createdAt": "2026-04-04T07:35:05.933892Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "HIMEHINA",
       "has_synced": false,
       "path": "select/pl_01_氷少女と陥落街_HIMEHINA.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "氷少女と陥落街",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/localdb_01_氷少女と陥落街_HIMEHINA.txt",
+      "repo_name": "Z9Io37vU_dY"
     }
   ]
 }
